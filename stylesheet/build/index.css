@@ -189,7 +189,6 @@
   }
   body footer.footer div.extern_links {
     margin: 0 auto;
-    width: 330px !important;
   }
   body footer.footer div.extern_links p {
     font-size: 12px;
@@ -288,7 +287,7 @@ body {
   z-index: -1;
 }
 
-.parteon {
+.footer-icon {
   border-radius: 10px;
 }
 
